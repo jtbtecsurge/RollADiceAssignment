@@ -1,0 +1,14 @@
+C:\Users\jtb\source\repos\RollADiceAssignment\RollADiceAssignment\bin\Debug\net9.0\RollADiceAssignment.exe
+C:\Users\jtb\source\repos\RollADiceAssignment\RollADiceAssignment\bin\Debug\net9.0\RollADiceAssignment.deps.json
+C:\Users\jtb\source\repos\RollADiceAssignment\RollADiceAssignment\bin\Debug\net9.0\RollADiceAssignment.runtimeconfig.json
+C:\Users\jtb\source\repos\RollADiceAssignment\RollADiceAssignment\bin\Debug\net9.0\RollADiceAssignment.dll
+C:\Users\jtb\source\repos\RollADiceAssignment\RollADiceAssignment\bin\Debug\net9.0\RollADiceAssignment.pdb
+C:\Users\jtb\source\repos\RollADiceAssignment\RollADiceAssignment\obj\Debug\net9.0\RollADiceAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jtb\source\repos\RollADiceAssignment\RollADiceAssignment\obj\Debug\net9.0\RollADiceAssignment.AssemblyInfoInputs.cache
+C:\Users\jtb\source\repos\RollADiceAssignment\RollADiceAssignment\obj\Debug\net9.0\RollADiceAssignment.AssemblyInfo.cs
+C:\Users\jtb\source\repos\RollADiceAssignment\RollADiceAssignment\obj\Debug\net9.0\RollADiceAssignment.csproj.CoreCompileInputs.cache
+C:\Users\jtb\source\repos\RollADiceAssignment\RollADiceAssignment\obj\Debug\net9.0\RollADiceAssignment.dll
+C:\Users\jtb\source\repos\RollADiceAssignment\RollADiceAssignment\obj\Debug\net9.0\refint\RollADiceAssignment.dll
+C:\Users\jtb\source\repos\RollADiceAssignment\RollADiceAssignment\obj\Debug\net9.0\RollADiceAssignment.pdb
+C:\Users\jtb\source\repos\RollADiceAssignment\RollADiceAssignment\obj\Debug\net9.0\RollADiceAssignment.genruntimeconfig.cache
+C:\Users\jtb\source\repos\RollADiceAssignment\RollADiceAssignment\obj\Debug\net9.0\ref\RollADiceAssignment.dll
