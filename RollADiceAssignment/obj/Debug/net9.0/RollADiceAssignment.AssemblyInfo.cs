@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RollADiceAssignment")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ca82b6adced65e7384fb0d1f97f0e04da885b2db")]
 [assembly: System.Reflection.AssemblyProductAttribute("RollADiceAssignment")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RollADiceAssignment")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

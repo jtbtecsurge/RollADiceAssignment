@@ -12,3 +12,4 @@ C:\Users\jtb\source\repos\RollADiceAssignment\RollADiceAssignment\obj\Debug\net9
 C:\Users\jtb\source\repos\RollADiceAssignment\RollADiceAssignment\obj\Debug\net9.0\RollADiceAssignment.pdb
 C:\Users\jtb\source\repos\RollADiceAssignment\RollADiceAssignment\obj\Debug\net9.0\RollADiceAssignment.genruntimeconfig.cache
 C:\Users\jtb\source\repos\RollADiceAssignment\RollADiceAssignment\obj\Debug\net9.0\ref\RollADiceAssignment.dll
+C:\Users\jtb\source\repos\RollADiceAssignment\RollADiceAssignment\obj\Debug\net9.0\RollADiceAssignment.sourcelink.json
